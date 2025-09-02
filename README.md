@@ -124,7 +124,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-Ryan Pichiteli - [@ryanoutk](https://www.instagram.com/ryanoutk/) - seu.email@example.com
+Ryan Pichiteli - [@ryanoutk](https://www.instagram.com/ryanoutk/) - ryanpichiteli@icloud.com
 
 Link do Projeto: [https://github.com/ryanpichiteli/marketplace-animado](https://github.com/ryanpichiteli/marketplace-animado)
 
