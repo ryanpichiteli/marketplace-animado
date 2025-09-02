@@ -82,7 +82,7 @@ lib/
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/marketplace-animado.git
+   git clone https://github.com/ryanpichiteli/marketplace-animado.git
    cd marketplace-animado
    ```
 
@@ -124,7 +124,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-Seu Nome - [@seu-twitter](https://twitter.com/seu-twitter) - seu.email@example.com
+Ryan Pichiteli - [@ryanoutk](https://www.instagram.com/ryanoutk/) - seu.email@example.com
 
 Link do Projeto: [https://github.com/ryanpichiteli/marketplace-animado](https://github.com/ryanpichiteli/marketplace-animado)
 
